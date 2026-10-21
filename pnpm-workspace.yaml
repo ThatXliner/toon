@@ -8,4 +8,4 @@ onlyBuiltDependencies:
   - esbuild
 
 overrides:
-  "@ai-sdk/provider-utils": "^4.0.62"
+  '@ai-sdk/provider-utils': ^4.0.62
