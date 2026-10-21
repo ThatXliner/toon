@@ -6,3 +6,6 @@ packages:
 onlyBuiltDependencies:
   - '@parcel/watcher'
   - esbuild
+
+overrides:
+  "@ai-sdk/provider-utils": "^4.0.62"
